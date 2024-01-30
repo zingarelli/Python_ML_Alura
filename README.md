@@ -20,7 +20,7 @@ Os cursos estão na seguinte ordem:
 
 7. [Melhorando o desempenho com XGBoost](/XGBoost/)
 
-8. Construindo modelos semi-supervisionados
+8. [Construindo modelos semi-supervisionados](/aprendizado-semisupervisionado/)
 
 ## Criando um ambiente virtual
 
