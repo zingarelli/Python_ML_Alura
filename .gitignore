@@ -1,1 +1,7 @@
-venv
+grid_search.pkl
+feature_selection_rfecv.pkl
+bagging_grid.pkl
+ada_grid_search.pkl
+cat_grid_search.pkl
+modelo_treinado.pkl
+catboost_info
