@@ -28,6 +28,8 @@ Os cursos estão na seguinte ordem (clique no link para ir até a pasta do curso
 
 8. [Construindo modelos semi-supervisionados](/aprendizado-semisupervisionado/)
 
+9. (extra) [Machine Learning: Credit Scoring](/credit_scoring/). É um curso adicional que eu fiz, que não está na formação, trabalhando com dados bancários e um classificador de regressão logística.
+
 ## Criando um ambiente virtual
 
 Os instrutores utilizaram o [Google Colab](https://colab.research.google.com) como IDE, mas eu utilizei o VS Code. Somente em um curso tive resultados diferentes (métricas e hiperparâmetros com valores diferentes) por conta dessa escolha, e acredito que se deve ao Colab ter mais poder de computação e cálculo mais preciso de ponto flutuante.
